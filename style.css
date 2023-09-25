@@ -134,7 +134,7 @@ p {
     
 }
 .left-main-1 {
-    height: 360px;
+    height: 335px;
     margin-bottom: 10px;
     position: relative;
     border: 1px solid #c7c0c080;
@@ -206,6 +206,8 @@ p {
     font-weight: 600;
     padding-top: 6px;  
     padding-left: 10px;
+    
+   
 }
 .left-main-2 p{
     font-size: 13px;
