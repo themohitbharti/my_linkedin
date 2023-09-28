@@ -216,7 +216,7 @@ p {
     padding-top: 6px;
 }
 .left-main-3 {
-    height: 190px;
+    height: 140px;
     background-color: white;
     border: 1px solid #c7c0c080;
     border-radius: 10px;
@@ -227,6 +227,8 @@ p {
 
 .left-main-3 h6 {
     color:#0a66c2;
+    margin: 0;
+    padding: 7px;
 }
 
 .same {
